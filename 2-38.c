@@ -7,5 +7,4 @@ int main()
 	printf("%120s\n\n","http://www.npru.ac.th");
 	printf("%57s%s","","Bye Bye");
 	return 0;
-	
 }
