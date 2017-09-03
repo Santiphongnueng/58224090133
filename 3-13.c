@@ -14,6 +14,6 @@ void main()
 	printf("choic=%c\n",choice);
 	printf("ch1=%c ch2=%c\n",ch1,ch2);
 	
-	int number2 = 40000;
-	printf("number2=%d",number2);
+	int Number2 = 40000;
+	printf("number2=%d",Number2);
 }
